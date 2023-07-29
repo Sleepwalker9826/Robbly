@@ -9,5 +9,3 @@
 
 I only made this for fun in my free time. Don't expect a lot of stuff in here.
 Some fun is also loaded in. Enjoy!
-=======
->>>>>>> 81e098a7f0672e305773f1c80d948191dc4f90a0
